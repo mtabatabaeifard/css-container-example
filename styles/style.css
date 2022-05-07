@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #fafafa;
+    height: 120px;
+    box-sizing: border-box;
+}
+ul,li{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.main-header-logo{
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.container{
+    max-height: 1360px;
+    margin-left: auto;
+    margin-right: auto;
+}
